@@ -4,5 +4,6 @@
     <string name="app_name">Las-Luciernagas</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="title_activity_segundo">SegundoActivity</string>
 
 </resources>
