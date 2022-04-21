@@ -26,6 +26,10 @@
             android:name="com.example.las_luciernagas.SegundoActivity"
             android:label="@string/title_activity_segundo" >
         </activity>
+        <activity
+            android:name="com.example.las_luciernagas.TerceroActivity"
+            android:label="@string/title_activity_tercero" >
+        </activity>
     </application>
 
 </manifest>

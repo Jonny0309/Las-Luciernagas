@@ -25,5 +25,9 @@ public class PrimeroActivity extends Activity {
     	Intent i=new Intent (this, SegundoActivity.class);
     	startActivity(i);
     }
+    public void tercero(View v){
+    	Intent i=new Intent (this, TerceroActivity.class);
+    	startActivity(i);
+    }
     
 }
